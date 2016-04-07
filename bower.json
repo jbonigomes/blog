@@ -1,0 +1,6 @@
+{
+  "name": "blog_kickster",
+  "dependencies": {
+    "jquery": "~1.12.0"
+  }
+}
